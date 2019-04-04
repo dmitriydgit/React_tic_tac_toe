@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.shopping-list{
+	width:400px;
+	margin: auto;
+	text-align:left;
+}
